@@ -42,7 +42,7 @@ const Medical = () => {
         className="relative bg-lavenderblush w-full h-[319.69rem] overflow-hidden text-left text-[0.94rem] text-black font-poppins [&.animate]:lg:animate-[1s_ease_0s_1_normal_forwards_fade-in-top] lg:opacity-[0]"
         data-animate-on-scroll
       >
-        <footer className="absolute top-[289.56rem] left-[0rem] bg-gray-300 w-[90rem] h-[30.13rem]" />
+        <footer className="absolute top-[289.56rem] left-[0rem] bg-gray-300 w-[110rem] h-[30.13rem]" />
         <div className="absolute top-[0rem] left-[-0.94rem] w-[90.94rem] h-[107.94rem] text-[1.5rem] font-open-sans">
           <img
             className="absolute top-[0rem] left-[0.94rem] w-[98rem] h-[59.44rem] object-cover"
@@ -103,16 +103,16 @@ const Medical = () => {
           />
         </div>
         <div className="absolute top-[67.31rem] left-[4.56rem] w-[24.81rem] h-[24.5rem] text-[1.41rem] text-light-background-color">
-          <div className="absolute top-[0rem] left-[13 rem] rounded-[9.42px] bg-hotpink-200 w-[24.81rem] h-[24.5rem]" />
+          <div className="absolute top-[0rem] left-[2 rem] rounded-[9.42px] bg-hotpink-200 w-[24.81rem] h-[24.5rem]" />
           <img
-            className="absolute top-[2.57rem] left-[12.63rem] w-[3.6rem] h-[4.25rem] overflow-hidden"
+            className="absolute top-[2.57rem] left-[10.63rem] w-[3.6rem] h-[4.25rem] overflow-hidden"
             alt=""
             src="/healthiconsnurseoutline.svg"
           />
-          <div className="absolute top-[7.56rem] left-[10.63rem] font-semibold inline-block w-[12.23rem] h-[1.94rem]">
+          <div className="absolute top-[7.56rem] left-[8.63rem] font-semibold inline-block w-[12.23rem] h-[1.94rem]">
             Self Check
           </div>
-          <p className="m-0 absolute top-[10.31rem] left-[3.55rem] leading-[203%] text-center inline-block w-[20.55rem] h-[8.79rem] text-[1.25rem]">
+          <p className="m-0 absolute top-[10.31rem] left-[2.55rem] leading-[203%] text-center inline-block w-[20.55rem] h-[8.79rem] text-[1.25rem]">
             <span>
               Know your body better by checking your breasts yourself at home
             </span>
@@ -132,26 +132,26 @@ const Medical = () => {
           />
         </div>
         <div className="absolute top-[67.31rem] left-[59.69rem] w-[24.81rem] h-[24.5rem] text-[1.13rem] text-darkslategray-200">
-          <div className="absolute top-[0rem] left-[0rem] rounded-[9.42px] bg-light-background-color w-[24.81rem] h-[24.5rem]" />
-          <div className="absolute top-[7.56rem] left-[5.87rem] text-[1.41rem] font-semibold inline-block w-[18.94rem] h-[4.31rem]">
+          <div className="absolute top-[0rem] left-[3rem] rounded-[9.42px] bg-light-background-color w-[24.81rem] h-[24.5rem]" />
+          <div className="absolute top-[7.56rem] left-[8.87rem] text-[1.41rem] font-semibold inline-block w-[18.94rem] h-[4.31rem]">
             {" "}
             Regeneration Aid
           </div>
-          <div className="absolute top-[11.88rem] left-[1.87rem] leading-[203%] text-center inline-block w-[20.56rem] h-[7.25rem]">
+          <div className="absolute top-[11.88rem] left-[4.87rem] leading-[203%] text-center inline-block w-[20.56rem] h-[7.25rem]">
             Jorem ipsum dolor sit amet, consectetur adipiscing elit.
           </div>
           <img
-            className="absolute top-[2.55rem] left-[10.57rem] w-[4.07rem] h-[4.25rem] overflow-hidden"
+            className="absolute top-[2.55rem] left-[13.57rem] w-[4.07rem] h-[4.25rem] overflow-hidden"
             alt=""
             src="/healthiconsdoctormaleoutline.svg"
           />
-          <button className="cursor-pointer p-0 bg-[transparent] absolute top-[19.94rem] left-[6.37rem] rounded-3xs [background:linear-gradient(90deg,_#ef58b4,_#faa4d6_48.46%,_#ed57b4)] shadow-[0px_4px_40px_rgba(177,_146,_65,_0.6)] box-border w-[12.44rem] h-[2.88rem] border-[1px] border-solid border-light-background-color" />
+          <button className="cursor-pointer p-0 bg-[transparent] absolute top-[19.94rem] left-[9.37rem] rounded-3xs [background:linear-gradient(90deg,_#ef58b4,_#faa4d6_48.46%,_#ed57b4)] shadow-[0px_4px_40px_rgba(177,_146,_65,_0.6)] box-border w-[12.44rem] h-[2.88rem] border-[1px] border-solid border-light-background-color" />
           <div className="absolute top-[20.56rem] left-[8.24rem] w-[9rem] h-[1.56rem] text-light-background-color font-open-sans">
-            <b className="absolute top-[0rem] left-[0rem] tracking-[0.1em] capitalize">
+            <b className="relative top-[0rem] left-[3.5rem] tracking-[.1em] capitalize">
               CHECK NOW
             </b>
             <img
-              className="absolute top-[0.31rem] left-[8.5rem] w-[0.5rem] h-[0.88rem]"
+              className="absolute top-[0.31rem] left-[10.5rem] w-[0.5rem] h-[0.88rem]"
               alt=""
               src="/vector111.svg"
             />
@@ -402,7 +402,7 @@ const Medical = () => {
         </div>
         <button className="cursor-pointer p-0 bg-[transparent] absolute top-[87.25rem] left-[10.75rem] rounded-3xs [background:linear-gradient(90deg,_#ef58b4,_#faa4d6_48.46%,_#ed57b4)] shadow-[0px_4px_40px_rgba(177,_146,_65,_0.6)] box-border w-[12.44rem] h-[2.88rem] border-[1px] border-solid border-light-background-color" />
         <div className="absolute top-[87.88rem] left-[12.63rem] w-[9rem] h-[1.56rem] text-[1.13rem] text-light-background-color font-open-sans">
-          <b className="absolute top-[0rem] left-[0rem] tracking-[0.1em] capitalize">
+          <b className="relative top-[0rem] left-[0rem] tracking-[0.1em] capitalize">
             CHECK NOW
           </b>
           <img
@@ -412,25 +412,25 @@ const Medical = () => {
           />
         </div>
         <div className="absolute top-[67.31rem] left-[31.44rem] w-[24.81rem] h-[24.5rem] text-[1.41rem] text-darkslategray-200">
-          <div className="absolute top-[0rem] left-[0rem] rounded-[9.42px] bg-light-background-color w-[24.81rem] h-[24.5rem]" />
-          <div className="absolute top-[7.81rem] left-[7.31rem] font-semibold inline-block w-[12.44rem] h-[1.94rem]">
+          <div className="absolute top-[0rem] left-[2.5rem] rounded-[9.42px] bg-light-background-color w-[24.81rem] h-[24.5rem]" />
+          <div className="absolute top-[7.81rem] left-[8.31rem] font-semibold inline-block w-[12.44rem] h-[1.94rem]">
             Estimate Cancer
           </div>
-          <div className="absolute top-[10.31rem] left-[2.32rem] text-[1.25rem] leading-[203%] text-center inline-block w-[20.55rem] h-[8.79rem]">
+          <div className="absolute top-[10.31rem] left-[4.32rem] text-[1.25rem] leading-[203%] text-center inline-block w-[20.55rem] h-[8.79rem]">
             Doctors and pathologists can now estimate cancer just at one click.
           </div>
           <img
-            className="absolute top-[2.18rem] left-[11.15rem] w-[3.72rem] h-[3.88rem] overflow-hidden"
+            className="absolute top-[2.18rem] left-[13.15rem] w-[3.72rem] h-[3.88rem] overflow-hidden"
             alt=""
             src="/medicaliconicathlab.svg"
           />
-          <button className="cursor-pointer p-0 bg-[transparent] absolute top-[19.94rem] left-[6.38rem] rounded-3xs [background:linear-gradient(90deg,_#ef58b4,_#faa4d6_48.46%,_#ed57b4)] shadow-[0px_4px_40px_rgba(177,_146,_65,_0.6)] box-border w-[12.44rem] h-[2.88rem] border-[1px] border-solid border-light-background-color" />
-          <div className="absolute top-[20.56rem] left-[8.25rem] w-[9rem] h-[1.56rem] text-[1.13rem] text-light-background-color font-open-sans">
-            <b className="absolute top-[0rem] left-[0rem] tracking-[0.1em] capitalize">
+          <button className="cursor-pointer p-0 bg-[transparent] absolute top-[19.94rem] left-[9.38rem] rounded-3xs [background:linear-gradient(90deg,_#ef58b4,_#faa4d6_48.46%,_#ed57b4)] shadow-[0px_4px_40px_rgba(177,_146,_65,_0.6)] box-border w-[12.44rem] h-[2.88rem] border-[1px] border-solid border-light-background-color" />
+          <div className="absolute top-[20.56rem] left-[8.25rem] w-[9rem] h-[1.56rem] text-[1.13rem] text-light-background-color font-open-sans"> 2
+            <b className="relative top-[0rem] left-[2rem] tracking-[0.1em] capitalize">
               CHECK NOW
             </b>
             <img
-              className="absolute top-[0.31rem] left-[8.5rem] w-[0.5rem] h-[0.88rem]"
+              className="absolute top-[0.31rem] left-[11.5rem] w-[0.5rem] h-[0.88rem]"
               alt=""
               src="/vector111.svg"
             />
